@@ -10,6 +10,6 @@ Distances = "b4f34e82-e78d-54a5-968a-f98e89d6e8f7"
 
 [compat]
 Clustering = "0.14.2"
-DifferencesBase = "0.15"
+DifferencesBase = "0.15, 0.16"
 Distances = "0.10"
 julia = "1.5"
